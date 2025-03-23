@@ -17,3 +17,4 @@ int sum()
     s=a+b;
     printf("total is %d",s);
 }
+ 
